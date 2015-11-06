@@ -1,2 +1,0 @@
-# ZJcore
-is very good!
